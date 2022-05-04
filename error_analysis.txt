@@ -1,0 +1,490 @@
+1.
+also sends message protection harassment service basic right
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+2.
+truth explains dont want handle wife girlfriend
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+3.!!!
+find people claim others dont know anything islam dont know anything
+Predicted index: 1
+Predicted class: ethnicity
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+4.
+first triggering second partner violence third
+Predicted index: 1
+Predicted class: ethnicity
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+5.
+feeling sick tried greek egg
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+6.!!!!
+day brilliant need like *********************************************************
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+7. !!! 
+know getting bullied school *******************************************************
+Predicted index: 0
+Predicted class: age
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+8. !!!!
+someone going home obviously cook
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+9. !!!
+blumenthal like hamas vote time politics hamas
+Predicted index: 5
+Predicted class: religion
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+
+10.
+pretty sure theyre channel stooge designed fired seems working
+Predicted index: 0
+Predicted class: age
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+11.
+long time water crazy
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+12.
+apple nigga dont like apple
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 1. 0. 0. 0. 0.]
+
+13.
+repeatedly female industry leader whose politics doesnt agree ****************************
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+14.
+moment today kid bully giving toy
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+15. !!!
+said dont living wage shit might leave
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+16.
+believe option block happens client side well
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+17. !!!!
+dont worry nobody notice theory ridiculous keep
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+18. !!!!
+dare hanging friend ethic much
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+19. !!!
+seen bible still concept jihad humanity
+Predicted index: 5
+Predicted class: religion
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+20.
+hell goin week weather meant sick
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+21. !!!
+single brotherhood idiot said muslim shia
+Predicted index: 5
+Predicted class: religion
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+22.
+look like somebody made pointless account telling complete stranger
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+23. !!!
+dont content claiming bitch walking around wearing clothes
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+24. !!!
+islam hacked death report
+Predicted index: 5
+Predicted class: religion
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+25. !!!
+standard trolling feminist disgrace challenge
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+26.
+sleep makeup like skin next
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+27.
+information come light tonight wont supporting reading following anymore
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+28. !!!!
+think think best chef ever hello
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+29. !!!
+watching annoying make want never another pizza
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+30. !!!
+video latest spin cycle bully james wrestling
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+31.
+think someone pressed wrong button
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+32. !!!
+week know might certainly dont talking
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+33. !!!
+make status facebook saying hate bully bully like
+Predicted index: 0
+Predicted class: age
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+34. !!!
+need serious help hope find
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+35. 
+suppo still youre evil
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+36. !!!
+beyond five google
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+37. !!!!
+wonder producer sorry keep getting
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+38. !!!
+obamas supporting terrorist mosque woman kicked husband caught affair scenario fight terrorism
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 0. 0. 1.]
+
+39.
+gosh many surprise announcement show need
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+40. !!!
+scroll bottom shit
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+41. !!!!!
+tweet proof come true knew draft could jones
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+42.
+make responding conspiracy theory funny share
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+43.
+possible kickstarter name choose week
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+44.!!!
+living severe delusion reason mohammed hated jew willing convert
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 0. 1.]
+
+45.!!!
+didnt problem woman valley article humble
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+46. !!!!
+favorite line blue easily line gorgeous fade quick day week
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+47.
+thanks super effective need ggautoblocker guess
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+48.
+reading something fucking stupid make blow think
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+49. !!!!!
+knew would response soon
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+50.
+strategy working tonight channel make tweet
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+
+possible classes:
+important info filtered out
+maybe a tweet could have more than one possible class
+some tweets labeled poorly
+
+!!!!hot words without context causing misclassification!!!!!
+##################################################
+45.
+didnt problem woman valley article humble
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+44.
+living severe delusion reason mohammed hated jew willing convert
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 0. 1.]
+
+38.
+obamas supporting terrorist mosque woman kicked husband caught affair scenario fight terrorism
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 0. 0. 1.]
+
+33.
+make status facebook saying hate bully bully like
+Predicted index: 0
+Predicted class: age
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+30.
+video latest spin cycle bully james wrestling
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+25.
+standard trolling feminist disgrace challenge
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+23.
+dont content claiming bitch walking around wearing clothes
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+24.
+islam hacked death report
+Predicted index: 5
+Predicted class: religion
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+
+21.
+single brotherhood idiot said muslim shia
+Predicted index: 5
+Predicted class: religion
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+
+19.
+seen bible still concept jihad humanity
+Predicted index: 5
+Predicted class: religion
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+9. !!!
+blumenthal like hamas vote time politics hamas
+Predicted index: 5
+Predicted class: religion
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+7.
+know getting bullied school
+Predicted index: 0
+Predicted class: age
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+3.!!!
+find people claim others dont know anything islam dont know anything
+Predicted index: 1
+Predicted class: ethnicity
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+##################################################
+
+!!!!!Class Important Context words filtered out:!!!!!
+#######################################
+30% of errors analysied
+#######################################
+49.
+knew would response soon
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+46.
+favorite line blue easily line gorgeous fade quick day week
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+
+41.
+tweet proof come true knew draft could jones
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+40.
+scroll bottom shit
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+
+
+37.
+wonder producer sorry keep getting
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+36.
+beyond five google
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+34.
+need serious help hope find
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+32.
+week know might certainly dont talking
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+29.
+watching annoying make want never another pizza
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+28.
+think think best chef ever hello
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+
+
+18.
+dare hanging friend ethic much
+Predicted index: 4
+Predicted class: other_cyberbullying
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+17.
+dont worry nobody notice theory ridiculous keep
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+
+15. 
+said dont living wage shit might leave
+Predicted index: 2
+Predicted class: gender
+Actual Class: [0. 0. 0. 1. 0. 0.]
+
+8.
+someone going home obviously cook
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 0. 0. 1. 0.]
+
+6.!!!!
+day brilliant need like
+Predicted index: 3
+Predicted class: not_cyberbullying
+Actual Class: [0. 0. 1. 0. 0. 0.]
+####################################################
